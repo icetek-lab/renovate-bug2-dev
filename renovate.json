@@ -8,7 +8,7 @@
       "pip-compile"
     ],
     "pip-compile": {
-      "fileMatch": ["(^|/)requirements\\.in$"]
+      "fileMatch": ["(^|/)requirements\\.txt$"]
     },
     "vulnerabilityAlerts": {
       "enabled": true
